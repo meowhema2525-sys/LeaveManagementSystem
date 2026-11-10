@@ -3,4 +3,8 @@ node_modules/
 .env.*
 !.env.example
 dist/
+<<<<<<< HEAD
 build/
+=======
+build/
+>>>>>>> 7bb405c74980b09c8ef948ca5540f4c8261dd6a7
